@@ -35,7 +35,7 @@ References
 .. _Alessandro Schiavi: https://www.inrim.it/it/rubrica/alessandro-schiavi
 
 
-.. figure:: docs/artemide.png
+.. figure:: logos.png
    :alt: ARTEMIDE
    :width: 500px
    :align: center
