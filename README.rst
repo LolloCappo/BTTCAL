@@ -12,7 +12,12 @@ This repository contains open-source data, results, and dissemination from the N
 -------------
 
 The overarching goal of the project is...
-The Principal investigator of the project is Prof. `Gianluca Rossi`_, supported by Prof. `Nicola Paone`_, Prof. `Roberto Montanini`_, Prof. `Laura Fabbiano`_, and dr. `Alessandro Schiavi`_.
+The Principal investigator is Prof. `Gianluca Rossi`_ from the Univeristy of Perugia, supported by:
+
+- Prof. `Nicola Paone`_, Marche Polytechnic University
+- Prof. `Roberto Montanini`_, University of Messina
+- Prof. `Laura Fabbiano`_, Polytechnic of Bari
+- dr. `Alessandro Schiavi`_, National Metrology Institute of Italy
 
 Sub-steps
 --------
