@@ -7,7 +7,7 @@
 BTTCAL
 ==========
 
-This repository contains open-source data, results, and dissemination from the National Research Project "Development of calibration procedures of Tip Timing systems for non-contact turbine blade vibration measurements".
+This repository contains open-source data, results, and dissemination from the National Research Project "Development of calibration procedures of Tip Timing systems for non-contact turbine blade vibration measurements". BTTCAL is funded by the Italian Ministry of University and Research (MUR). Grant id is J53D23002440006 (PRIN2022).
 
 -------------
 
@@ -19,10 +19,6 @@ Sub-steps
 - aaa
 - bbb
 - ccc
-
-Project Background
--------------------
-BTTCAL is funded by the Italian Ministry of University and Research (MUR). Grant id is J53D23002440006 (PRIN2022).
 
 References
 ----------
