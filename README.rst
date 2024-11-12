@@ -37,5 +37,4 @@ References
 
 .. figure:: logos.png
    :alt: ARTEMIDE
-   :width: 500px
    :align: center
