@@ -7,11 +7,11 @@
 BTTCAL
 ==========
 
-This repository contains open-source data, results, and dissemination from the National Research Project "Development of calibration procedures of Tip Timing systems for non-contact turbine blade vibration measurements". BTTCAL is funded by the Italian Ministry of University and Research (MUR). Grant id is J53D23002440006 (PRIN2022).
+This repository contains open-source data and results from the National Research Project "Development of calibration procedures of Tip Timing systems for non-contact turbine blade vibration measurements". BTTCAL is funded by the Italian Ministry of University and Research (MUR). Grant id is J53D23002440006 (PRIN2022).
 
 -------------
 
-The overarching goal of the project is...
+The overarching goal of the project is to design and develop procedures and setup for calibrating Blade Tip-Timing Measurement Systems.
 The Principal investigator is Prof. `Gianluca Rossi`_ from the Univeristy of Perugia, supported by:
 
 - Prof. `Nicola Paone`_, Marche Polytechnic University
@@ -19,11 +19,11 @@ The Principal investigator is Prof. `Gianluca Rossi`_ from the Univeristy of Per
 - Prof. `Laura Fabbiano`_, Polytechnic of Bari
 - dr. `Alessandro Schiavi`_, National Metrology Institute of Italy
 
-Sub-steps
+Work-packages (WP)
 --------
-- aaa
-- bbb
-- ccc
+- WP1: Identification and quantification of parameters that influence measurement ucnertainty in BTT systems; designign and building a calibration setup.
+- WP2: Calibration of optical-based sensors for BTT applications through an extensive experimental test camapaign
+- WP3: Outreach, dissemination, and exploitation of the results
 
 References
 ----------
