@@ -27,6 +27,8 @@ Work-packages (WP)
 
 References
 ----------
+- https://www.mdpi.com/1424-8220/23/3/1129
+- https://www.mdpi.com/1424-8220/23/5/2600
 
 .. _Gianluca Rossi: https://www.unipg.it/personale/gianluca.rossi
 .. _Nicola Paone: https://www.univpm.it/Entra/Engine/RAServePG.php/P/320710010421/idsel/260/docname/NICOLA%20PAONE
